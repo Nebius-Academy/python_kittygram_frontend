@@ -3,11 +3,11 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/yandex-praktikum/kittygram_frontend.git
+git clone https://github.com/Nebius-Academy/python_kittygram_frontend.git
 ```
 
 ```
-cd kittygram_frontend
+cd python_kittygram_frontend
 ```
 
 Install dependencies:
